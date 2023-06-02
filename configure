@@ -1,0 +1,11 @@
+#! /bin/bash
+
+if [[ "$(ls)" != *"build"* ]]; then
+    mkdir build
+fi
+
+cd build
+
+cmake ..
+make 
+mv lab6 ..

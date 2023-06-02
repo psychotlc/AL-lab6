@@ -1,0 +1,6 @@
+/home/narek/Документы/AL/lab6/build/CMakeFiles/lab6.dir
+/home/narek/Документы/AL/lab6/build/CMakeFiles/edit_cache.dir
+/home/narek/Документы/AL/lab6/build/CMakeFiles/rebuild_cache.dir
+/home/narek/Документы/AL/lab6/build/lib/array/CMakeFiles/ArifmeticArray_lib.dir
+/home/narek/Документы/AL/lab6/build/lib/array/CMakeFiles/edit_cache.dir
+/home/narek/Документы/AL/lab6/build/lib/array/CMakeFiles/rebuild_cache.dir

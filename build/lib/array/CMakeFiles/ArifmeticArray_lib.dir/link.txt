@@ -1,0 +1,2 @@
+/usr/bin/ar qc libArifmeticArray_lib.a CMakeFiles/ArifmeticArray_lib.dir/src/array.cpp.o
+/usr/bin/ranlib libArifmeticArray_lib.a
